@@ -1,6 +1,6 @@
 
 #### Global Context
-Ssetup global context for ThemeToggle.
+Setup global context for ThemeToggle.
 
 #### Dark Theme || Light Theme
 In the toggleDarkTheme add logic to add and remove.
